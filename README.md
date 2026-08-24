@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hey, I'm Abhyudaya 👋
 
-<!--
-**Aps4705/Aps4705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student • Developer • Builder
 
-Here are some ideas to get you started:
+I like building things with both software and hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Solving DSA in C++
+- 📱 Building applications with Flutter
+- 🎮 Passionate about Game Development
+- 🚁 Exploring Drone & UAV Technology
+- ⚙️ Learning Embedded Systems & Flight Controllers
+
+## 🚀 Currently Building
+
+🚁 **Drone / Flight Controller**
+Exploring the software and hardware side of UAV systems.
+
+📱 **Flutter Applications**
+Building practical mobile applications.
+
+🎮 **Game Development**
+Experimenting with gameplay systems and mechanics.
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+C++ • C • Dart • Python 
+
+**Development**
+
+Flutter • Firebase • Unreal Engine
+
+**Exploring**
+
+ESP32 • Embedded Systems • UAVs • Flight Controllers
+
+## 🧩 Problem Solving
+
+Currently practicing Data Structures & Algorithms using C++.
+
+## 🏆 Projects
+
+- 🚁 Virtual Flight Controller
+- 📱 ClubSync
+- 🎮 Game Development Projects
+
+---
+
+### 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
