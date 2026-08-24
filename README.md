@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Abhyudaya Pratap Singh">
+</p>
+
+<br>
+
+
+
+
 # Hey, I'm Abhyudaya 👋
 
 ### CSE Student • Developer • Builder
