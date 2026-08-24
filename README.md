@@ -4,9 +4,9 @@
 
 > **Building software. Exploring hardware. Learning how things fly. 🚁**
 
-I'm a developer interested in the intersection of **software, mobile applications, game development, and embedded systems**.
+I'm a developer who enjoys building things across **software, mobile applications, games, and hardware**.
 
-Currently focused on **C++ DSA, Flutter development, game development, and exploring drone & flight-control systems.**
+Currently focused on **C++ & DSA, Flutter development, game development, and exploring drone, UAV, and embedded systems.**
 
 ---
 
@@ -14,61 +14,94 @@ Currently focused on **C++ DSA, Flutter development, game development, and explo
 
 * 🧠 **DSA & Problem Solving** — C++
 * 📱 **App Development** — Flutter & Dart
-* 🎮 **Game Development** — Unreal Engine
-* 🚁 **Drone Technology** — UAVs & Flight Controllers
-* ⚙️ **Embedded Systems** — ESP32 & hardware communication
+* 🎮 **Game Development** — Unreal Engine & Flame
+* 🚁 **Drone & UAV Systems** — Flight Controllers, MAVLink & Telemetry
+* ⚙️ **Embedded & IoT** — ESP32, ESP8266 & hardware communication
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Interests
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Development
+### App Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge\&logo=unrealengine\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Hardware & Systems
+### Backend
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-333333?style=for-the-badge\&logo=arduino\&logoColor=white)
-![UAV](https://img.shields.io/badge/UAV-Drone_Tech-333333?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Databases
+
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Game Development
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Flame](https://img.shields.io/badge/Flame-Game_Engine-333333?style=for-the-badge)
+
+### Embedded & IoT
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
+**Sensors • UART • UDP • Hardware Communication**
+
+### Drone & UAV Systems
+
+**Flight Controllers • Mission Planner • MAVLink • RC Systems • Telemetry • UAV Architecture**
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚁 Currently Exploring
 
 ```text
-Drone Systems
+Drone & UAV Systems
+│
 ├── Flight Controllers
-├── Embedded Systems
-├── Sensors & Telemetry
-├── Hardware Communication
+├── MAVLink & Telemetry
+├── Mission Planner
+├── RC Systems
+├── Embedded Communication
+├── Sensors & Hardware
 └── UAV Architecture
 ```
 
-I'm currently learning the technical side of drones and working toward understanding how **software, electronics, communication, and flight-control systems** come together.
+I'm currently learning the technical side of drone systems and exploring how **software, embedded hardware, communication, and flight-control systems** work together.
 
 ---
 
 ## 🧩 Problem Solving
 
-Currently practicing **Data Structures & Algorithms using C++**.
+**300+ Problems Solved • C++**
 
-* Arrays & Strings
-* Sorting & Searching
-* Recursion
-* Linked Lists
-* Trees & Graphs
-* Dynamic Programming
-* Competitive Programming
+### Topics I've Practiced
+
+**Core:**  
+Array • String • Sorting • Hash Table
+
+**Algorithms:**  
+Binary Search • Dynamic Programming • Divide & Conquer
+
+**Advanced:**  
+Segment Tree • Math
+
+<a href="https://leetcode.com/u/abhyudaya4705/">
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 ---
 
@@ -76,15 +109,15 @@ Currently practicing **Data Structures & Algorithms using C++**.
 
 ### 🚁 Virtual Flight Controller
 
-Exploring the connection between **mobile software, flight-control systems, and embedded hardware**.
+Exploring the connection between **mobile applications, communication systems, flight controllers, and embedded hardware**.
 
 ### 📱 ClubSync
 
-A college club management platform built with **Flutter & Firebase**, developed during InHacks by CPByte.
+A college club management platform built with **Flutter, Dart & Firebase**, developed during **InHacks by CPByte**.
 
 ### 🎮 Game Development
 
-Experimenting with **game mechanics, gameplay systems, physics, and interactive experiences**.
+Experimenting with **game mechanics, gameplay systems, physics, and interactive experiences** using Unreal Engine and Flame.
 
 ---
 
@@ -92,7 +125,7 @@ Experimenting with **game mechanics, gameplay systems, physics, and interactive 
 
 ### InHacks — CPByte
 
-Built **ClubSync** with my team to centralize college club discovery, events, recruitment, and announcements.
+Built **ClubSync** with my team to create a centralized platform for college clubs, events, recruitment, and announcements.
 
 **Stack:** Flutter • Dart • Firebase
 
@@ -107,7 +140,7 @@ Programming & Problem Solving
             ↓
      Game Development
             ↓
-    Embedded Systems
+    Embedded & IoT
             ↓
      Drone Technology
             ↓
