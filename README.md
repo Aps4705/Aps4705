@@ -49,4 +49,6 @@ Currently practicing Data Structures & Algorithms using C++.
 
 ### 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
+• [LinkedIn](https://www.linkedin.com/in/abhyudaya-pratap-singh-5084b8381/) 
+• [Email](apsofficial4705@gmail.com)
+• [Instagram](@mightyaps)
